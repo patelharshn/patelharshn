@@ -1,3 +1,5 @@
+![logo](https://github.com/patelharshn/patelharshn/blob/main/Github_Banner.png)
+
 <h1 align="center">Hi 👋, I'm Harsh Patel</h1>
 <h3 align="center">A passionate web developer from India</h3>
 
